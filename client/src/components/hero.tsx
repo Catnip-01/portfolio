@@ -29,7 +29,7 @@ const Hero = () => (
                 className="flex-1 md:order-1" // md:order-1 moves text to the left on md+ screens
             >
                 <h1 className="text-pale-gold text-5xl sm:text-6xl md:text-6xl font-extrabold leading-tight mb-4 drop-shadow-xl">Hi, I'm <span className="text-inherit">Shantanu Pandey</span></h1>
-                <p className="text-lg sm:text-xl leading-relaxed mb-8">An experienced and impatient MERN vibe-coder who will get the job done in 24 hours.</p>
+                <p className="text-lg sm:text-xl leading-relaxed mb-8">An Experienced Prefinal-Year Full-Stack Dev who will get the job done in 24 hours.</p>
                 <div className="max-w-xs mx-auto md:mx-0"><a href="#contact"><Button>Get in Touch</Button></a></div>
             </motion.div>
         </div>
