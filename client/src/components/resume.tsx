@@ -29,7 +29,7 @@ const Resume = () => (
                 Download my full resume in PDF format.
             </p>
             {/* Replace '/Shantanu_Pandey_Resume.pdf' with the actual path to your resume file in the public folder */}
-            <a href="/ShantanuPandeyResume.pdf" download="Shantanu_Pandey_Resume.pdf">
+            <a href="/ShantanuLatex.pdf" download="Shantanu_Pandey_Resume.pdf">
                 <Button>Download Resume</Button>
             </a>
         </motion.div>
